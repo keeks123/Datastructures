@@ -1,4 +1,4 @@
-package javasets.com.williamfiset.datastructures.binarysearchtree;
+package javatests.com.williamfiset.datastructures.binarysearchtree;
 
 import static org.junit.jupiter.api.Assertions.*;
 

@@ -1,3 +1,5 @@
+package javasets.com.williamfiset.datastructures.binarysearchtree;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 import com.williamfiset.datastructures.binarysearchtree.SplayTree;

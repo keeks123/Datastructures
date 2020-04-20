@@ -1,4 +1,5 @@
-package javatests.com.williamfiset.datastructures.binarysearchtree;
+package javasets.com.williamfiset.datastructures.binarysearchtree;
+
 
 import static org.junit.Assert.*;
 
